@@ -40,13 +40,13 @@ I'm deepening my knowledge in
 ## 📫 Find me at
 
 - Email: ryantavareslopes11@gmail.com
-- LinkedIn: [[seulinkedin](https://linkedin.com/in/seulinkedin)](https://www.linkedin.com/in/ryan-tavares-lopes-44716022b/)
+- LinkedIn: [(https://linkedin.com/in/seulinkedin)](https://www.linkedin.com/in/ryan-tavares-lopes-44716022b/)
 
 ---
 
 ## 🌎 Languages
-Brazilian Portuguese | Fluent/Native
-English | Advanced C1 profiency
-Spanish | Just the basics
+Brazilian Portuguese - Fluent/Native |
+English - Advanced C1 profiency |
+Spanish - Just the basics
 
 > "Talk is cheap. Show me the code." — Linus Torvalds
