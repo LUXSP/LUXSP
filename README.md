@@ -45,7 +45,7 @@ I'm deepening my knowledge in
 
 ## 🌎 Languages
 Brazilian Portuguese - Fluent/Native |
-English - Advanced C1 profiency |
+English - Advanced C1 proficiency |
 Spanish - Just the basics
 
 > "Talk is cheap. Show me the code." — Linus Torvalds
