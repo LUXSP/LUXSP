@@ -27,13 +27,11 @@ I'm deepening my knowledge in
 
 ---
 
-## 📂 Some of my repositories 
-
-| Projects | Descrição |
-|--------|-----------|
-| [📁 Java]([https://github.com/seuusuario/NomeDoProjeto](https://github.com/LUXSP/Java2)) | Java conditionals strutures |
-| [📁 Python]([https://github.com/seuusuario/OutroProjeto](https://github.com/LUXSP/Exerc-cios-Python)) | Basic Python syntax exercises |
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 ---
 
 ## 📫 Find me at
