@@ -1,6 +1,6 @@
 # 👋 Hi! I'm LUXSP
 
-I`m actually pursuing a degree in Computer Science.
+I`m currently pursuing a degree in Computer Science.
 Enrolled at CS50 by Harvard at moment.
 ---
 
@@ -37,13 +37,12 @@ I'm deepening my knowledge in
 ## 📫 Find me at
 
 - Email: ryantavareslopes11@gmail.com
-- LinkedIn: [[(https://www.linkedin.com/in/ryan-tavares-lopes-44716022b/)](https://www.linkedin.com/in/ryan-tavares-lopes-44716022b/)]
+- LinkedIn: (https://www.linkedin.com/in/ryan-tavares-lopes-44716022b/)(https://www.linkedin.com/in/ryan-tavares-lopes-44716022b/)]
 
 ---
 
 ## 🌎 Languages
 Brazilian Portuguese - Fluent/Native |
 English - Advanced C1 proficiency |
-Spanish - Just the basics
+Spanish - A1
 
-> "Talk is cheap. Show me the code." — Linus Torvalds
