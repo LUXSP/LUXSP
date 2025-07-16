@@ -37,7 +37,7 @@ I'm deepening my knowledge in
 ## 📫 Find me at
 
 - Email: ryantavareslopes11@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/ryan-tavares-lopes-44716022b/)(https://www.linkedin.com/in/ryan-tavares-lopes-44716022b/)]
+- LinkedIn: https://www.linkedin.com/in/ryan-tavares-lopes-44716022b/
 
 ---
 
