@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Ryan Lopes and I'm a Java Developer, from São Paulo, Brazil</h2>
 
 <p>I`m currently pursuing a degree in Computer Science.
-Enrolled at CS50 by Harvard at moment.</p>
+I've completed the CS50 course by Harvard :D.</p>
 
 
 <div align="center">
